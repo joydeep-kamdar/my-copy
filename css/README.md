@@ -1,4 +1,4 @@
-The following files in this directory were taken from TodoMVC project:
+The following files in this directory were taken from TodoMVC project: Joy
 
  - base.css
  - index.css
